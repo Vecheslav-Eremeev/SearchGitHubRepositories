@@ -1,1 +1,1 @@
-# SearxhGitHubRepositories
+# SearchGitHubRepositories
